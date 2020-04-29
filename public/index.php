@@ -46,8 +46,8 @@ $houses = $houseTools->getAllHouses();
 <table class="table">
     <thead class="thead-dark">
     <tr>
-        <th scope="col">id</th>
-        <th scope="col">Name</th>
+        <th scope="col">id House</th>
+        <th scope="col">Name House</th>
         <th scope="col">House name</th>
         <th scope="col">House adress</th>
     </tr>
